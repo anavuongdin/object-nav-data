@@ -1,1 +1,1 @@
-# crowd-nav-data
+# Object Navigation for Blind agent
